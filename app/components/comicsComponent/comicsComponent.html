@@ -1,0 +1,28 @@
+<input type="number" ng-model="vm.num1">
+<input type="number" ng-model="vm.num2">
+
+
+
+<p>{{vm.resultado}}</p>
+<button ng-click="vm.sumar()" type="button" name="button">Sumar</button>
+<button ng-click="vm.limpiar()" type="button" name="button">Limpiar</button>
+<button ng-click="vm.apiCall()" type="button" name="button">Mostrar data</button>
+<button ng-click="vm.apiCallDelate()" type="button" name="button">Ocultar data</button>
+
+<div class="row">
+    <div class="col s12 m3" ng-repeat="hero in vm.superheros" style="height: 670px;">
+        <div class="card">
+            <div class="card-image">
+                <img ng-src="{{hero.thumbnail.path}}.{{hero.thumbnail.extension}}">
+                <span class="card-title">{{hero.name}}</span>
+            </div>
+            <div class="card-content">
+              <p>
+                {{hero.description}} <br>
+                <h5>{{hero.comics.available}}</h5>
+              </p>
+            </div>
+
+          </div>
+        </div>
+</div>

@@ -1,0 +1,39 @@
+
+[
+  {
+    "name": "Scott Pilgrim's Precious Little Life",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51XqN4mssBL._SX334_BO1,204,203,200_.jpg",
+    "año": 2004,
+    "id": "1"
+  },
+  {
+    "name": "Scott Pilgrim vs the World ",
+    "img": "http://www.cbr.com/wp-content/uploads/preview/prv14103_cov.jpg",
+    "año": 2005,
+    "id": "2"
+  },
+  {
+    "name": "Scott Pilgrim and the Infinite Sadness",
+    "img": "https://vignette3.wikia.nocookie.net/scottpilgrim/images/e/eb/Tumblr_mfnuyhYUb81ro3irro1_1280.jpg/revision/latest?cb=20121227195142",
+    "año": 2006,
+    "id": "3"
+  },
+  {
+    "name": "Scott Pilgrim Gets It Together ",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51PDUSpZzFL._SX334_BO1,204,203,200_.jpg",
+    "año": 2007,
+    "id": "4"
+  },
+  {
+    "name": "Scott Pilgrim vs the Universe",
+    "img": "https://vignette1.wikia.nocookie.net/scottpilgrim/images/a/ab/ScottPilgrimvol5.jpg/revision/latest?cb=20100621043214",
+    "año": 2009,
+    "id": "5"
+  },
+  {
+    "name": "Scott Pilgrim's Finest Hour",
+    "img": "https://joeshusterawards.files.wordpress.com/2010/03/1269013889.jpg",
+    "año": 2010,
+    "id": "6"
+  }
+]
